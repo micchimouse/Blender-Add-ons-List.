@@ -13,3 +13,4 @@
 |[Mesh:LoopTools](https://modelinghappy.com/archives/24959)|・モデルを円形にしてくれたり、頂点を整列してくれたり|-|$Free|
 |[All Material List](https://bookyakuno.com/all-material-list/)|・プロジェクト内の全マテリアルを一覧表示|-|¥2,600|
 |[Extra Nodes For Geometry Nodes](https://blendermarket.com/products/extra-nodes)|・ジオメトリノードの拡張|-|＄10|
+|[GraphKit](https://blastframe.com/product/graphkit/)|・アニメーション拡張ツール|-|$49.99|
