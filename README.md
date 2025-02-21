@@ -7,6 +7,7 @@
 |import images as planes|・画像を平面（板ポリゴン）に貼り付けてオブジェクトとして読み込める|★★★★★|Free|
 |[Lazy Shapekeys](https://bookyakuno.booth.pm/items/1936561)|・シェイプキーのフォルダ分け<br>・強制転送・<br>個々に別オブジェクト化するアドオン|-|¥2,500|
 |[AnimCopy](https://blastframe.com/product/animcopy/)|・イージングのコピペができる|-|$19.99|
+|[flux](https://booth.pm/ja/items/5821753)|・イージングの登録、適応ができる|-|¥500|
 
 
 ## 気になるもの
