@@ -17,6 +17,11 @@
 |Loop Tools|・頂点や辺の編集を簡単にしてくれる<br>・頂点や辺を平坦にしたり、均等に配置したり、一つにまとめたり|★★★★★|Free|
 |Material Utilities|・マテリアルを一括割り当て|★★★★★|Free|
 
+## 自作のアドオン
+|Name|Desc|Star|price|
+|--|--|--|--|
+|CellLook Shader|・セルルックのシェーダーをワンクリックで生成|★★★★★|$Free|
+
 ## 気になるもの
 |Name|Desc|Star|price|
 |--|--|--|--|
