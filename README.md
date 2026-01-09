@@ -14,6 +14,8 @@
 |Cell Fracture|・オブジェクトをバラバラにして生成できる|★★★|Free|
 |Copy Attributes Menu|・モディファイアー等をコピぺできる|★|Free|
 |[Interactive Tools](https://maxivz.github.io/interactivetoolsblenderdocs.github.io/)|・オブジェクトの原点をワンクリックでコントロール|★★★★★|Free|
+|Loop Tools|・頂点や辺の編集を簡単にしてくれる<br>・頂点や辺を平坦にしたり、均等に配置したり、一つにまとめたり|★★★★★|Free|
+|Material Utilities|・マテリアルを一括割り当て|★★★★★|Free|
 
 ## 気になるもの
 |Name|Desc|Star|price|
