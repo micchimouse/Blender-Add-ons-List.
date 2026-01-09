@@ -20,7 +20,7 @@
 ## 自作のadd-ons
 |Name|Desc|Star|price|
 |--|--|--|--|
-|CellLook Shader|・セルルックのシェーダーをワンクリックで生成|★★★★★|$Free|
+|[CellLook Shader](https://github.com/micchimouse/CellLook_Shader)|・セルルックのシェーダーをワンクリックで生成|★★★★★|$Free|
 
 ## 気になるもの
 |Name|Desc|Star|price|
