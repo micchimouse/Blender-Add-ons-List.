@@ -9,8 +9,11 @@
 |[AnimCopy](https://blastframe.com/product/animcopy/)|・イージングのコピペができる|★★★★★|$19.99|
 |[flux](https://booth.pm/ja/items/5821753)|・イージングの登録、適応ができる|★★★★★|¥500|
 |3D Viewport Pie Menus|・パイメニューの拡張（[解説](https://vook.vc/n/5655)）|★★★★★|Free|
-
-
+|Align Tools|・位置、回転、サイズを揃える|★★★|Free|
+|[Anti-Seam](https://thatimster.gumroad.com/l/juLNpq)|・テクスチャの繋ぎ目をいい感じにしてくれる|★★★★★|Free|
+|Cell Fracture|・オブジェクトをバラバラにして生成できる|★★★|Free|
+|Copy Attributes Menu|・モディファイアー等をコピぺできる|★|Free|
+|[Interactive Tools](https://maxivz.github.io/interactivetoolsblenderdocs.github.io/)|・オブジェクトの原点をワンクリックでコントロール|★★★★★|Free|
 
 ## 気になるもの
 |Name|Desc|Star|price|
